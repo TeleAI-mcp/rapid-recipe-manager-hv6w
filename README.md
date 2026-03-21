@@ -1,2 +1,3 @@
-# rapid-recipe-manager-hv6w
-A recipe management application for modern development workflows
+# Rapid Recipe Manager Hv6W
+
+A recipe management application for modern development workflows.
